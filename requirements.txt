@@ -1,0 +1,5 @@
+requests
+six
+configparser
+cassandra-driver
+kafka-python
