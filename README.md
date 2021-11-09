@@ -44,6 +44,6 @@ This utility runs in Production. The data, parameter names, tables, and column n
 3. Integration with Slack
 4. No requirement for log checking by login into the server.
 
-## Demo Screenshots
+## Demo Screenshot
 Messages delivered on Slack:
 ![Slack Screenshot File](https://github.com/Anshita1Saxena/kafka-read-repair-automation/blob/main/demo-image/Demo%20Slack%20Screenshot.JPG)
